@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 centos:centos7.9.2009
 mysql:8.0.39-debian
+nacos/nacos-server:v2.2.3
