@@ -7,3 +7,4 @@ xhofe/alist:latest
 centos:centos7.9.2009
 mysql:8.0.39-debian
 nacos/nacos-server:v2.2.3
+ubuntu:24.04
